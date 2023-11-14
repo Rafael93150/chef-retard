@@ -1,6 +1,6 @@
 # Recette du Gâteau au Chocolat
 
-![Gâteau au Chocolat](/recipes/gateau-au-chocolat.jpg)
+![Gâteau au Chocolat](/images/gateau-au-chocolat.webp)
 
 ## Ingrédients
 

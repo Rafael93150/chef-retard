@@ -1,12 +1,12 @@
 ---
 title: "Sauce Curry Coco"
-img: /recipes/sauce-curry-coco.jpg
+img: /images/sauce-curry-coco.webp
 alt: Sauce Curry Coco
 ---
 
 # Sauce Curry Coco
 
-![Sauce Curry Coco](/recipes/sauce-curry-coco.jpg)
+![Sauce Curry Coco](/images/sauce-curry-coco.webp)
 
 ## Ingrédients
 

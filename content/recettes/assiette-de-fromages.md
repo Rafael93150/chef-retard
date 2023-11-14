@@ -1,12 +1,12 @@
 ---
 title: "Assiette de Fromages"
-img: /recipes/assiette-de-fromages.jpeg
+img: /images/assiette-de-fromages.webp
 alt: Assiette de Fromages
 ---
 
 # Assiette de Fromages
 
-![Assiette de Fromages](/recipes/assiette-de-fromages.jpeg)
+![Assiette de Fromages](/images/assiette-de-fromages.webp)
 
 ## Ingrédients
 

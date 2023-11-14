@@ -1,12 +1,12 @@
 ---
 title: "Guacamole Maison"
-img: /recipes/guacamole-maison.jpeg
+img: /images/guacamole-maison.webp
 alt: Guacamole Maison
 ---
 
 # Guacamole Maison
 
-![Guacamole Maison](/recipes/guacamole-maison.jpeg)
+![Guacamole Maison](/images/guacamole-maison.webp)
 
 ## Ingrédients
 

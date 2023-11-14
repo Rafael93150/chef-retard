@@ -1,12 +1,12 @@
 ---
 title: "Mini Bruschettas"
-img: /recipes/mini-bruschettas.webp
+img: /images/mini-bruschettas.webp
 alt: Mini Bruschettas
 ---
 
 # Mini Bruschettas
 
-![Mini Bruschettas](/recipes/mini-bruschettas.webp)
+![Mini Bruschettas](/images/mini-bruschettas.webp)
 
 ## Ingrédients
 

@@ -13,11 +13,11 @@ Chez Chef Retard, nous croyons que la préparation de repas délicieux ne devrai
 
 ## Explorez nos Catégories de Recettes
 
--   [**Apéritifs**](/aperitifs) : Des bouchées gourmandes pour commencer votre repas en beauté.
--   [**Entrées**](/entrees) : Des débuts de repas savoureux qui ouvrent l'appétit.
--   [**Plats**](/plats) : Des plats principaux délicieux pour combler votre appétit.
--   [**Desserts**](/desserts) : Des douceurs irrésistibles qui raviront vos papilles.
--   [**Sauces**](/sauces) : Des sauces maison pour sublimer vos plats en un instant.
+-   [Apéritifs](/aperitifs) : Des bouchées gourmandes pour commencer votre repas en beauté.
+-   [Entrées](/entrees) : Des débuts de repas savoureux qui ouvrent l'appétit.
+-   [Plats](/plats) : Des plats principaux délicieux pour combler votre appétit.
+-   [Desserts](/desserts) : Des douceurs irrésistibles qui raviront vos papilles.
+-   [Sauces](/sauces) : Des sauces maison pour sublimer vos plats en un instant.
 
 Quel que soit le repas, nous avons la recette parfaite pour vous !
 
@@ -32,10 +32,10 @@ Quel que soit le repas, nous avons la recette parfaite pour vous !
 
 Rejoignez la communauté Chef Retard sur les réseaux sociaux. Partagez vos créations, posez des questions et découvrez les dernières recettes !
 
--   [Facebook](#)
--   [Instagram](#)
--   [Pinterest](#)
+-   [Facebook](/)
+-   [Instagram](/)
+-   [Pinterest](/)
 
 Prêt à cuisiner rapidement ? Explorez nos recettes dès maintenant et régalez-vous !
 
-[Explorez les Recettes](/)
+[Explorez les Recettes](/recettes)

@@ -63,7 +63,7 @@ main a:not([href^="#"]):not(table a) {
 
 main img {
 	width: 20em;
-	height: 12em;
+	height: 14em;
 	border-radius: 0.5em;
 	object-fit: cover;
 }

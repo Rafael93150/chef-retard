@@ -1,12 +1,12 @@
 ---
 title: "Tarte aux Fruits"
-img: /recipes/tarte-aux-fruits.jpg
+img: /images/tarte-aux-fruits.webp
 alt: Tarte aux Fruits
 ---
 
 # Tarte aux Fruits
 
-![Tarte aux Fruits](/recipes/tarte-aux-fruits.jpg)
+![Tarte aux Fruits](/images/tarte-aux-fruits.webp)
 
 ## Ingrédients
 

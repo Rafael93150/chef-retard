@@ -1,12 +1,12 @@
 ---
 title: "Sauce au Poivre Vert"
-img: /recipes/sauce-au-poivre-vert.jpg
+img: /images/sauce-au-poivre-vert.webp
 alt: Sauce au Poivre Vert
 ---
 
 # Sauce au Poivre Vert
 
-![Sauce au Poivre Vert](/recipes/sauce-au-poivre-vert.jpg)
+![Sauce au Poivre Vert](/images/sauce-au-poivre-vert.webp)
 
 ## Ingrédients
 

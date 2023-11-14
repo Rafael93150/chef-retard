@@ -4,7 +4,7 @@ Découvrez notre délicieux menu de la semaine, composé de plats savoureux pour
 
 ## Lundi
 
-![Salade César](/recipes/salade-cesar.jpeg)
+![Salade César](/images/salade-cesar.webp)
 
 ### Déjeuner
 
@@ -20,7 +20,7 @@ Découvrez notre délicieux menu de la semaine, composé de plats savoureux pour
 
 ## Mardi
 
-![Bruschetta aux Tomates et Mozzarella](/recipes/mini-bruschettas.webp)
+![Bruschetta aux Tomates et Mozzarella](/images/mini-bruschettas.webp)
 
 ### Déjeuner
 
@@ -36,7 +36,7 @@ Découvrez notre délicieux menu de la semaine, composé de plats savoureux pour
 
 ## Mercredi
 
-![Risotto aux Champignons](/recipes/risotto-champignons.jpeg)
+![Risotto aux Champignons](/images/risotto-aux-champignons.webp)
 
 ### Déjeuner
 
@@ -52,7 +52,7 @@ Découvrez notre délicieux menu de la semaine, composé de plats savoureux pour
 
 ## Jeudi
 
-![Lasagnes Bolognaises](/recipes/lasagnes-aux-bolognaises.jpeg)
+![Lasagnes Bolognaises](/images/lasagnes-aux-bolognaises.webp)
 
 ### Déjeuner
 
@@ -68,7 +68,7 @@ Découvrez notre délicieux menu de la semaine, composé de plats savoureux pour
 
 ## Vendredi
 
-![Pizza Margherita](/recipes/pizza-margherita.webp)
+![Pizza Margherita](/images/pizza-margherita.webp)
 
 ### Déjeuner
 
@@ -84,7 +84,7 @@ Découvrez notre délicieux menu de la semaine, composé de plats savoureux pour
 
 ## Samedi
 
-![Tarte au Citron Meringuée](/recipes/tarte-citron-meringuee.jpeg)
+![Tarte au Citron Meringuée](/images/tarte-citron-meringuee.webp)
 
 ### Déjeuner
 
@@ -100,7 +100,7 @@ Découvrez notre délicieux menu de la semaine, composé de plats savoureux pour
 
 ## Dimanche
 
-![Boeuf Bourguignon](/recipes/boeuf-bourguignon.jpeg)
+![Boeuf Bourguignon](/images/boeuf-bourguignon.webp)
 
 ### Déjeuner
 

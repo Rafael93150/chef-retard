@@ -9,7 +9,7 @@ Explorez notre sélection de plats principaux qui vous régaleront à coup sûr.
 
 ## Poulet au Curry
 
-![Poulet au Curry](/recipes/poulet-au-curry.jpg)
+![Poulet au Curry](/images/poulet-au-curry.webp)
 
 Un délicieux poulet mijoté dans une sauce au curry crémeuse, accompagné de légumes savoureux. Servez-le avec du riz basmati pour une expérience gustative complète.
 
@@ -19,7 +19,7 @@ Un délicieux poulet mijoté dans une sauce au curry crémeuse, accompagné de l
 
 ## Lasagnes Bolognaises
 
-![Lasagnes Bolognaises](/recipes/lasagnes-aux-bolognaises.jpeg)
+![Lasagnes Bolognaises](/images/lasagnes-aux-bolognaises.webp)
 
 Des couches de pâtes, de viande de bœuf hachée assaisonnée et de sauce tomate, le tout recouvert de béchamel et de fromage fondu. Un classique italien qui plaît à tous.
 
@@ -29,7 +29,7 @@ Des couches de pâtes, de viande de bœuf hachée assaisonnée et de sauce tomat
 
 ## Saumon Grillé à la Citronnelle
 
-![Saumon Grillé à la Citronnelle](/recipes/saumon-grille-a-la-citronnelle.jpeg)
+![Saumon Grillé à la Citronnelle](/images/saumon-grille-a-la-citronnelle.webp)
 
 Des filets de saumon grillés à la perfection, parfumés à la citronnelle et au gingembre. Accompagnez-les de riz ou de légumes pour un repas équilibré.
 
@@ -39,7 +39,7 @@ Des filets de saumon grillés à la perfection, parfumés à la citronnelle et a
 
 ## Risotto aux Champignons
 
-![Risotto aux Champignons](/recipes/risotto-aux-champignons.jpeg)
+![Risotto aux Champignons](/images/risotto-aux-champignons.webp)
 
 Un risotto crémeux préparé avec des champignons sautés, du bouillon de légumes et du parmesan. Un plat réconfortant qui met en valeur la richesse des saveurs.
 
@@ -49,7 +49,7 @@ Un risotto crémeux préparé avec des champignons sautés, du bouillon de légu
 
 ## Tacos au Carnitas
 
-![Tacos au Carnitas](/recipes/tacos-au-carnitas.jpeg)
+![Tacos au Carnitas](/images/tacos-au-carnitas.webp)
 
 Des tacos garnis de viande de porc effilochée, de salsa fraîche, d'avocat et de coriandre. Un festin mexicain qui ravira les amateurs de saveurs épicées.
 

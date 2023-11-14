@@ -1,12 +1,12 @@
 ---
 title: "Cocktail Fizz à la Fraise"
-img: /recipes/cocktail-fizz-a-la-fraise.jpeg
+img: /images/cocktail-fizz-a-la-fraise.webp
 alt: Cocktail Fizz à la Fraise
 ---
 
 # Cocktail Fizz à la Fraise
 
-![Cocktail Fizz à la Fraise](/recipes/cocktail-fizz-a-la-fraise.jpeg)
+![Cocktail Fizz à la Fraise](/images/cocktail-fizz-a-la-fraise.webp)
 
 ## Ingrédients
 

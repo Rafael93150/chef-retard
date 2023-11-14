@@ -1,12 +1,12 @@
 ---
 title: "Sauce Aïoli Maison"
-img: /recipes/sauce-aioli-maison.jpg
+img: /images/sauce-aioli-maison.webp
 alt: Sauce Aïoli Maison
 ---
 
 # Sauce Aïoli Maison
 
-![Sauce Aïoli Maison](/recipes/sauce-aioli-maison.jpg)
+![Sauce Aïoli Maison](/images/sauce-aioli-maison.webp)
 
 ## Ingrédients
 

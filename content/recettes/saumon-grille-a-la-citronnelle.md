@@ -1,12 +1,12 @@
 ---
 title: "Saumon Grillé à la Citronnelle"
-img: /recipes/saumon-citronnelle.jpg
+img: /images/saumon-citronnelle.webp
 alt: Saumon Grillé à la Citronnelle
 ---
 
 # Saumon Grillé à la Citronnelle
 
-![Saumon Grillé à la Citronnelle](/recipes/saumon-grille-a-la-citronnelle.jpeg)
+![Saumon Grillé à la Citronnelle](/images/saumon-grille-a-la-citronnelle.webp)
 
 ## Ingrédients
 

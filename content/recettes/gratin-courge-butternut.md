@@ -1,6 +1,6 @@
 # Gratin de Courge Butternut
 
-![Gratin de Courge Butternut](/recipes/gratin-courge-butternut.jpeg)
+![Gratin de Courge Butternut](/images/gratin-courge-butternut.webp)
 
 ## Ingrédients
 

@@ -1,12 +1,12 @@
 ---
 title: "Poulet au Curry"
-img: /recipes/poulet-au-curry.jpg
+img: /images/poulet-au-curry.webp
 alt: Poulet au curry
 ---
 
 # Poulet au Curry
 
-![Poulet au Curry](/recipes/poulet-au-curry.jpg)
+![Poulet au Curry](/images/poulet-au-curry.webp)
 
 ## Ingrédients
 

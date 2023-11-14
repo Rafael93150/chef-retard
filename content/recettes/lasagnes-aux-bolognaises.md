@@ -1,12 +1,12 @@
 ---
 title: "Lasagnes Bolognaises"
-img: /recipes/lasagnes-bolognaises.jpg
+img: /images/lasagnes-bolognaises.webp
 alt: Lasagnes Bolognaises
 ---
 
 # Lasagnes Bolognaises
 
-![Lasagnes Bolognaises](/recipes/lasagnes-aux-bolognaises.jpeg)
+![Lasagnes Bolognaises](/images/lasagnes-aux-bolognaises.webp)
 
 ## Ingrédients
 

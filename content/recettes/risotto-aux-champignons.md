@@ -1,12 +1,12 @@
 ---
 title: "Risotto aux Champignons"
-img: /recipes/risotto-aux-champignons.jpeg
+img: /images/risotto-aux-champignons.webp
 alt: Risotto aux Champignons
 ---
 
 # Risotto aux Champignons
 
-![Risotto aux Champignons](/recipes/risotto-aux-champignons.jpeg)
+![Risotto aux Champignons](/images/risotto-aux-champignons.webp)
 
 ## Ingrédients
 

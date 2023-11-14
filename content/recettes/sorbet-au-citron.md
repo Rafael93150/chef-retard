@@ -1,12 +1,12 @@
 ---
 title: "Sorbet au Citron"
-img: /recipes/sorbet-au-citron.jpg
+img: /images/sorbet-au-citron.webp
 alt: Sorbet au Citron
 ---
 
 # Sorbet au Citron
 
-![Sorbet au Citron](/recipes/sorbet-au-citron.jpg)
+![Sorbet au Citron](/images/sorbet-au-citron.webp)
 
 ## Ingrédients
 

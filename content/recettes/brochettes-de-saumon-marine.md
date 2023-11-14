@@ -1,12 +1,12 @@
 ---
 title: "Brochettes de Saumon Mariné"
-img: /recipes/brochettes-de-saumon-marine.jpeg
+img: /images/brochettes-de-saumon-marine.webp
 alt: Brochettes de Saumon Mariné
 ---
 
 # Brochettes de Saumon Mariné
 
-![Brochettes de Saumon Mariné](/recipes/brochettes-de-saumon-marine.jpeg)
+![Brochettes de Saumon Mariné](/images/brochettes-de-saumon-marine.webp)
 
 ## Ingrédients
 

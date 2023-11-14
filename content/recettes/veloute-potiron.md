@@ -1,6 +1,6 @@
 # Velouté de Potiron
 
-![Velouté de Potiron](/recipes/veloute-potiron.jpeg)
+![Velouté de Potiron](/images/veloute-potiron.webp)
 
 ## Ingrédients
 

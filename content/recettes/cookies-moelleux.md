@@ -1,12 +1,12 @@
 ---
 title: "Cookies Moelleux"
-img: /recipes/cookies-moelleux.jpg
+img: /images/cookies-moelleux.webp
 alt: Cookies Moelleux
 ---
 
 # Cookies Moelleux
 
-![Cookies Moelleux](/recipes/cookies-moelleux.jpg)
+![Cookies Moelleux](/images/cookies-moelleux.webp)
 
 ## Ingrédients
 

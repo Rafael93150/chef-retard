@@ -19,19 +19,19 @@ const navigation = ref([
 		content: [
 			{ name: "Menu de la semaine", href: "/menu-de-la-semaine" },
 			{ name: "Recettes de saison", href: "/recettes-de-saison" },
-			{ name: "Top des recettes", href: "/" },
-			{ name: "Les grands classiques", href: "/" },
+			{ name: "Top des recettes", href: "/top-des-recettes" },
+			{ name: "Les grands classiques", href: "/les-grands-classiques" },
 			{ name: "Nouveautés", href: "/nouveautes" },
 		],
 	},
 	{
 		name: "En cuisine",
 		content: [
-			{ name: "Actus food", href: "/" },
-			{ name: "Tendance food", href: "/" },
-			{ name: "Mieux manger", href: "/" },
-			{ name: "Mieux acheter", href: "/" },
-			{ name: "Bon plans", href: "/" },
+			{ name: "Toutes les recettes", href: "/recettes" },
+			{ name: "Actus food", href: "/actu-food" },
+			{ name: "Mieux manger", href: "/mieux-manger" },
+			{ name: "Mieux acheter", href: "/mieux-acheter" },
+			{ name: "Mieux cuisiner", href: "/mieux-cuisiner" },
 		],
 	},
 ]);

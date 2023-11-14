@@ -9,7 +9,7 @@ Commencez votre repas en beauté avec nos entrées alléchantes. Explorez ci-des
 
 ## Salade de Chèvre Chaud
 
-![Salade de Chèvre Chaud](/recipes/salade-de-chevre-chaud.jpeg)
+![Salade de Chèvre Chaud](/images/salade-de-chevre-chaud.webp)
 
 Une salade légère et gourmande, agrémentée de fromage de chèvre chaud, de noix croquantes et de vinaigrette au miel. Une entrée parfaite pour une touche de fraîcheur.
 
@@ -19,7 +19,7 @@ Une salade légère et gourmande, agrémentée de fromage de chèvre chaud, de n
 
 ## Velouté de Tomates Basilic
 
-![Velouté de Tomates Basilic](/recipes/veloute-de-tomates-basilic.jpeg)
+![Velouté de Tomates Basilic](/images/veloute-de-tomates-basilic.webp)
 
 Un velouté velouté et parfumé, réalisé à partir de tomates mûres et de basilic frais. Servez-le avec une cuillerée de crème fraîche pour une expérience délicieusement réconfortante.
 
@@ -29,7 +29,7 @@ Un velouté velouté et parfumé, réalisé à partir de tomates mûres et de ba
 
 ## Bruschetta aux Tomates et Mozzarella
 
-![Bruschetta aux Tomates et Mozzarella](/recipes/bruschetta-aux-tomates-et-mozzarella.jpeg)
+![Bruschetta aux Tomates et Mozzarella](/images/bruschetta-aux-tomates-et-mozzarella.webp)
 
 Des tranches de pain grillé garnies de tomates fraîches, de mozzarella fondante et de basilic. Une entrée simple et délicieuse qui plaira à coup sûr.
 
@@ -39,7 +39,7 @@ Des tranches de pain grillé garnies de tomates fraîches, de mozzarella fondant
 
 ## Carpaccio de Saumon
 
-![Carpaccio de Saumon](/recipes/carpaccio-de-saumon.jpeg)
+![Carpaccio de Saumon](/images/carpaccio-de-saumon.webp)
 
 Des fines tranches de saumon mariné, agrémentées de câpres, d'oignons rouges et d'une touche de citron. Une option légère et pleine de saveurs.
 
@@ -49,7 +49,7 @@ Des fines tranches de saumon mariné, agrémentées de câpres, d'oignons rouges
 
 ## Mini Quiches Lorraines
 
-![Mini Quiches Lorraines](/recipes/mini-quiches-lorraines.jpeg)
+![Mini Quiches Lorraines](/images/mini-quiches-lorraines.webp)
 
 Des petites quiches lorraines individuelles remplies de bacon, d'oignons et de fromage. Idéales pour les amateurs de saveurs classiques.
 

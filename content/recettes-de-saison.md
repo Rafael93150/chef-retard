@@ -6,7 +6,7 @@ Bienvenue dans notre collection de recettes mettant à l'honneur les saveurs aut
 
 Commencez votre exploration culinaire avec notre velouté de potiron, une soupe chaude et crémeuse qui incarne parfaitement l'esprit de l'automne. Les nuances riches du potiron, associées aux carottes et aux épices automnales, en font une option réconfortante pour les journées plus fraîches. Laissez-vous emporter par la chaleur de cette soupe délicieuse.
 
-![Velouté de Potiron](/recipes/veloute-potiron.jpeg)
+![Velouté de Potiron](/images/veloute-potiron.webp)
 
 [Suivre la recette](recettes/veloute-potiron)
 
@@ -14,6 +14,6 @@ Commencez votre exploration culinaire avec notre velouté de potiron, une soupe 
 
 Poursuivez votre voyage gustatif avec notre gratin de courge butternut. Les tranches de courge, cuites à la perfection et nappées d'une sauce crémeuse, créent un plat copieux et savoureux. Les notes sucrées de la courge butternut font de ce gratin une option irrésistible pour accompagner vos repas d'automne.
 
-![Gratin de Courge Butternut](/recipes/gratin-courge-butternut.jpeg)
+![Gratin de Courge Butternut](/images/gratin-courge-butternut.webp)
 
 [Suivre la recette](recettes/gratin-courge-butternut)

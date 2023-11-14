@@ -9,7 +9,7 @@ Que ce soit pour une soirée entre amis, un dîner en famille ou une occasion sp
 
 ## Guacamole Maison
 
-![Guacamole Maison](/recipes/guacamole-maison.jpeg)
+![Guacamole Maison](/images/guacamole-maison.webp)
 
 Le guacamole est un classique incontournable. Notre recette maison est préparée avec des avocats mûrs, des tomates fraîches, de l'oignon, du citron vert et une pincée de coriandre. Servez-le avec des tortillas croustillantes pour un début de repas rafraîchissant.
 
@@ -19,7 +19,7 @@ Le guacamole est un classique incontournable. Notre recette maison est préparé
 
 ## Mini Bruschettas
 
-![Mini Bruschettas](/recipes/mini-bruschettas.webp)
+![Mini Bruschettas](/images/mini-bruschettas.webp)
 
 Des petites bouchées pleines de saveurs ! Nos mini bruschettas sont garnies de tomates cerises, de basilic frais et de mozzarella fondante. Parfaites pour un apéritif léger et délicieux.
 
@@ -29,7 +29,7 @@ Des petites bouchées pleines de saveurs ! Nos mini bruschettas sont garnies de 
 
 ## Brochettes de Saumon Mariné
 
-![Brochettes de Saumon Mariné](/recipes/brochettes-de-saumon-marine.jpeg)
+![Brochettes de Saumon Mariné](/images/brochettes-de-saumon-marine.webp)
 
 Des brochettes de saumon mariné au citron et à l'aneth, grillées à la perfection. Un choix élégant pour impressionner vos invités.
 
@@ -39,7 +39,7 @@ Des brochettes de saumon mariné au citron et à l'aneth, grillées à la perfec
 
 ## Assiette de Fromages
 
-![Assiette de Fromages](/recipes/assiette-de-fromages.jpeg)
+![Assiette de Fromages](/images/assiette-de-fromages.webp)
 
 Une sélection soigneusement choisie de fromages fins accompagnée de fruits secs, de confitures et de pain frais. Parfait pour les amateurs de fromage.
 
@@ -49,7 +49,7 @@ Une sélection soigneusement choisie de fromages fins accompagnée de fruits sec
 
 ## Cocktail Fizz à la Fraise
 
-![Cocktail Fizz à la Fraise](/recipes/cocktail-fizz-a-la-fraise.jpeg)
+![Cocktail Fizz à la Fraise](/images/cocktail-fizz-a-la-fraise.webp)
 
 Rafraîchissez-vous avec notre cocktail fizz à la fraise. Un mélange pétillant de fraises fraîches, de jus de citron et de prosecco. Idéal pour accompagner vos apéritifs.
 

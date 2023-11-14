@@ -1,12 +1,12 @@
 ---
 title: "Sauce Tomate Fraîche"
-img: /recipes/sauce-tomate-fraiche.jpg
+img: /images/sauce-tomate-fraiche.webp
 alt: Sauce Tomate Fraîche
 ---
 
 # Sauce Tomate Fraîche
 
-![Sauce Tomate Fraîche](/recipes/sauce-tomate-fraiche.jpg)
+![Sauce Tomate Fraîche](/images/sauce-tomate-fraiche.webp)
 
 ## Ingrédients
 

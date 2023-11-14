@@ -1,12 +1,12 @@
 ---
 title: "Tacos au Carnitas"
-img: /recipes/tacos-au-carnitas.jpeg
+img: /images/tacos-au-carnitas.webp
 alt: Tacos au Carnitas
 ---
 
 # Tacos au Carnitas
 
-![Tacos au Carnitas](/recipes/tacos-au-carnitas.jpeg)
+![Tacos au Carnitas](/images/tacos-au-carnitas.webp)
 
 ## Ingrédients
 

@@ -9,7 +9,7 @@ Bienvenue sur notre collection de recettes de desserts exquis. Explorez ces dél
 
 ## Gâteau au Chocolat
 
-![Gâteau au Chocolat](/recipes/gateau-au-chocolat.jpeg)
+![Gâteau au Chocolat](/images/gateau-au-chocolat.webp)
 
 Un classique incontournable ! Notre recette de gâteau au chocolat est simple à préparer et garantit une explosion de saveurs chocolatées.
 
@@ -19,7 +19,7 @@ Un classique incontournable ! Notre recette de gâteau au chocolat est simple à
 
 ## Tarte aux Fruits
 
-![Tarte aux Fruits](/recipes/tarte-aux-fruits.jpeg)
+![Tarte aux Fruits](/images/tarte-aux-fruits.webp)
 
 Une tarte aux fruits légère et rafraîchissante est parfaite pour les journées ensoleillées. Essayez notre recette pour une touche de douceur fruitée.
 
@@ -29,7 +29,7 @@ Une tarte aux fruits légère et rafraîchissante est parfaite pour les journée
 
 ## Cookies Moelleux
 
-![Cookies Moelleux](/recipes/cookies-moelleux.jpeg)
+![Cookies Moelleux](/images/cookies-moelleux.webp)
 
 Les cookies moelleux sont toujours une option réconfortante. Découvrez notre recette de cookies moelleux pour des bouchées délicieuses.
 
@@ -39,7 +39,7 @@ Les cookies moelleux sont toujours une option réconfortante. Découvrez notre r
 
 ## Sorbet Citron
 
-![Sorbet Citron](/recipes/sorbet-au-citron.jpeg)
+![Sorbet Citron](/images/sorbet-au-citron.webp)
 
 Pour une note rafraîchissante, ne manquez pas notre recette de sorbet citron. Idéal pour les journées chaudes d'été.
 

@@ -1,12 +1,12 @@
 ---
 title: "Sauce Pesto Maison"
-img: /recipes/sauce-pesto-maison.jpg
+img: /images/sauce-pesto-maison.webp
 alt: Sauce Pesto Maison
 ---
 
 # Sauce Pesto Maison
 
-![Sauce Pesto Maison](/recipes/sauce-pesto-maison.jpg)
+![Sauce Pesto Maison](/images/sauce-pesto-maison.webp)
 
 ## Ingrédients
 
