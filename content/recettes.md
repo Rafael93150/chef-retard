@@ -26,19 +26,19 @@ Bienvenue sur notre page regroupant toutes les recettes de Chef Retard. Explorez
 
 ## Entrées
 
-### [Salade de Chèvre Chaud](recettes/salade-de-chevre-chaud)
+### [Salade de Chèvre Chaud](#)
 ![Salade de Chèvre Chaud](/images/salade-de-chevre-chaud.webp)
 
-### [Velouté de Tomates Basilic](recettes/veloute-de-tomates-basilic)
+### [Velouté de Tomates Basilic](#)
 ![Velouté de Tomates Basilic](/images/veloute-de-tomates-basilic.webp)
 
-### [Bruschetta aux Tomates et Mozzarella](recettes/bruschetta-aux-tomates-et-mozzarella)
+### [Bruschetta aux Tomates et Mozzarella](#)
 ![Bruschetta aux Tomates et Mozzarella](/images/bruschetta-aux-tomates-et-mozzarella.webp)
 
-### [Carpaccio de Saumon](recettes/carpaccio-de-saumon)
+### [Carpaccio de Saumon](#)
 ![Carpaccio de Saumon](/images/carpaccio-de-saumon.webp)
 
-### [Mini Quiches Lorraines](recettes/mini-quiches-lorraines)
+### [Mini Quiches Lorraines](#)
 ![Mini Quiches Lorraines](/images/mini-quiches-lorraines.webp)
 
 ## Plats

@@ -17,7 +17,7 @@ export default defineNuxtConfig({
 					"Découvrez des recettes de cuisine simples, délicieuses et rapides à préparer. Des idées pour tous les repas, du petit-déjeuner au dîner.",
 			},
 		],
-		link: [{ rel: "icon", type: "image/x-icon", href: "/logo.png" }],
+		link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
 		htmlAttrs: {
 			lang: "fr",
 		},

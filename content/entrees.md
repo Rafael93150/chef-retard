@@ -13,7 +13,7 @@ Commencez votre repas en beauté avec nos entrées alléchantes. Explorez ci-des
 
 Une salade légère et gourmande, agrémentée de fromage de chèvre chaud, de noix croquantes et de vinaigrette au miel. Une entrée parfaite pour une touche de fraîcheur.
 
-[Suivre la recette](recettes/salade-de-chevre-chaud)
+[Suivre la recette](#)
 
 ---
 
@@ -23,7 +23,7 @@ Une salade légère et gourmande, agrémentée de fromage de chèvre chaud, de n
 
 Un velouté velouté et parfumé, réalisé à partir de tomates mûres et de basilic frais. Servez-le avec une cuillerée de crème fraîche pour une expérience délicieusement réconfortante.
 
-[Suivre la recette](recettes/veloute-de-tomates-basilic)
+[Suivre la recette](#)
 
 ---
 
@@ -33,7 +33,7 @@ Un velouté velouté et parfumé, réalisé à partir de tomates mûres et de ba
 
 Des tranches de pain grillé garnies de tomates fraîches, de mozzarella fondante et de basilic. Une entrée simple et délicieuse qui plaira à coup sûr.
 
-[Suivre la recette](recettes/bruschetta-aux-tomates-et-mozzarella)
+[Suivre la recette](#)
 
 ---
 
@@ -43,7 +43,7 @@ Des tranches de pain grillé garnies de tomates fraîches, de mozzarella fondant
 
 Des fines tranches de saumon mariné, agrémentées de câpres, d'oignons rouges et d'une touche de citron. Une option légère et pleine de saveurs.
 
-[Suivre la recette](recettes/carpaccio-de-saumon)
+[Suivre la recette](#)
 
 ---
 
@@ -53,6 +53,6 @@ Des fines tranches de saumon mariné, agrémentées de câpres, d'oignons rouges
 
 Des petites quiches lorraines individuelles remplies de bacon, d'oignons et de fromage. Idéales pour les amateurs de saveurs classiques.
 
-[Suivre la recette](recettes/mini-quiches-lorraines)
+[Suivre la recette](#)
 
 ### N'hésitez pas à essayer ces recettes et à les adapter selon vos goûts. Bon appétit !
