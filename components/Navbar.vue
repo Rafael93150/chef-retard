@@ -57,6 +57,10 @@ watch(
 const toggleMenu = () => {
 	activeMenu.value = !activeMenu.value;
 };
+
+const closeMenu = () => {
+	activeMenu.value = false;
+};
 </script>
 
 <template>
@@ -67,8 +71,9 @@ const toggleMenu = () => {
 			<nuxt-link
 				to="/"
 				class="flex items-center space-x-3 rtl:space-x-reverse"
+				@click="closeMenu"
 			>
-				<img src="/logo.png" class="h-8 w-8" alt="Logo Chef Retard" />
+				<img src="/favicon.ico" class="h-8 w-8" alt="Logo Chef Retard" />
 				<span
 					class="self-center text-2xl font-semibold whitespace-nowrap"
 					>Chef Retard</span
@@ -121,6 +126,7 @@ const toggleMenu = () => {
 								v-for="item of nav.content"
 								:key="item.name"
 								class="block hover:text-gray-500"
+								@click="closeMenu"
 							>
 								<nuxt-link :to="item.href">{{
 									item.name

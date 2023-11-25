@@ -52,8 +52,9 @@ ol {
 	margin-left: 20px;
 }
 
-li {
+li:not(footer li) {
 	margin-bottom: 8px;
+	color: #4a5568;
 }
 
 main a:not([href^="#"]):not(table a) {
@@ -65,6 +66,13 @@ main img {
 	width: 20em;
 	height: 14em;
 	border-radius: 0.5em;
+	object-fit: cover;
+}
+
+main .banner img {
+	width: 100%;
+	height: 15em;
+	border-radius: 0.15em;
 	object-fit: cover;
 }
 
