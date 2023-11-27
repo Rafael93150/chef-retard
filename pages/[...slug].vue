@@ -15,7 +15,7 @@ main {
 
 /* Titres */
 h1 {
-	font-size: 2rem;
+	font-size: 1.75rem;
 	font-weight: bold;
 	margin-bottom: 1rem;
 	color: #1a202c; /* Couleur de texte Tailwind 'text-gray-800' */
@@ -74,6 +74,7 @@ main .banner img {
 	height: 15em;
 	border-radius: 0.15em;
 	object-fit: cover;
+	margin-bottom: 2em;
 }
 
 </style>

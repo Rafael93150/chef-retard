@@ -18,7 +18,6 @@ export default defineNuxtConfig({
 						"Avec Chef Retard, devenez un réel chef qui ne sera plus en retard grâce à des recettes de cuisine rapides."
 				},
 			],
-			link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
 			htmlAttrs: {
 				lang: "fr",
 			},
