@@ -1,10 +1,10 @@
-# Content v2 Minimal Starter
+# Chef Retard
 
-Look at the [Content documentation](https://content.nuxt.com/) to learn more.
+Projet de référencement naturel pour les mots "chef retard" réalisé avec [Nuxt v3](https://content.nuxt.com/)
 
-## Setup
+## Installation
 
-Make sure to install the dependencies:
+Installez les dépendances
 
 ```bash
 # yarn
@@ -17,26 +17,25 @@ npm install
 pnpm install
 ```
 
-## Development Server
+## Serveur de développement
 
-Start the development server on http://localhost:3000
+Lancez le serveur de développement sur le lien suivant: http://localhost:3000
 
 ```bash
 npm run dev
 ```
 
-## Production
+## Mise en production
 
-Build the application for production:
+Build l'application pour la mise en production:
 
 ```bash
 npm run build
 ```
 
-Locally preview production build:
+Pour avoir un aperçu en local:
 
 ```bash
 npm run preview
 ```
 
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
